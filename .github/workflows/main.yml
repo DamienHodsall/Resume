@@ -16,4 +16,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: rendercv-pdf
-          path: /usr/local/app/rendercv_output/Damien_Hodsall_CV.pdf
+          path: rendercv_output/Damien_Hodsall_CV.pdf
