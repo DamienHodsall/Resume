@@ -1,4 +1,9 @@
-on: [push]
+on:
+  push:
+    tags:
+      - "pdf-*-v*.*"
+      # pdf-[target]-v[major].[edit]
+      # e.g. pdf-coop-v1.3
 
 jobs:
   generate_pdf_job:
