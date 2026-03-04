@@ -5,6 +5,9 @@ on:
       # pdf-[target]-v[major].[edit]
       # e.g. pdf-coop-v1.3
 
+permissions:
+  contents: write
+
 jobs:
   generate_pdf_job:
     runs-on: ubuntu-latest
