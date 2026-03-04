@@ -12,4 +12,4 @@ COPY Damien_Hodsall_CV.yaml ./
 RUN rendercv render Damien_Hodsall_CV.yaml
 
 # Figure out where my damn pdf is
-RUN pwd; echo; ls; echo; ls rendercv_output; echo; readlink -e rendercv_output/Damien_Hodsall_CV.pdf
+# RUN pwd; echo; ls; echo; ls rendercv_output; echo; readlink -e rendercv_output/Damien_Hodsall_CV.pdf
