@@ -1,0 +1,410 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.6/schema.json
+cv:
+  name: Damien Hodsall
+  location: Nelson, BC
+  email: damien20work03@gmail.com
+  phone: +1-250-551-8269
+  website:
+  social_networks:
+    - network: LinkedIn
+      username: damien-hodsall-77185526b
+
+    - network: GitHub
+      username: DamienHodsall
+
+
+  sections:
+    profile:
+      - "Passionate and broadly-skilled 4th year software engineering student seeking co-op work term. Keen interest in integration of analog and digital circuitry with low-level software via microcontrollers. They excel at finding the key components of a problem in order to efficiently arrive at a solution. Some of their current interests include: creating hobbyist audio equipment, physical simulation techniques, and exploring new music!"
+
+
+    skills:
+      - label: Programming
+        details: Proficient at utilizing and implementing various programatic principles
+
+      - label: Mathematics
+        details: Good understanding of differential equations, calculus, linear algebra, and signal analysis
+
+      - label: Problem-Solving
+        details: Strong skills in identifying and solving diverse problems
+
+      - label: Operating Systems
+        details: Confident using \*nix family operating systems. Strong knowledge in containerization
+
+      - label: Data Analysis
+        details: Comfortable performing data analysis using tabular and programatic techniques
+
+      - label: Report-Writing
+        details: Comfortable writing reports and documents describing complex topics
+
+      - label: Documentation
+        details: Able to quickly read and understand product documentation
+
+      - label: Learning
+        details: Strong believer in life-long/contiuous learning, able to quickly learn new skills as necessary
+
+      - label: Organization
+        details: Naturally organized and tidy workflow leading to efficient completion of tasks
+
+      - label: Teaching
+        details: Experience teaching advanced concepts within short time frames
+          
+
+    tools_&_technology:
+      - label: Libraries & APIs
+        details: ROS - NumPy - OpenCV - MatPlotLib - Manin - SciPy - requests - Boost - vector
+
+      - label: Programming Languages
+        details: Python - Rust - C++ - C - Bash - VHDL - Java - JavaScript
+
+      - label: Software
+        details: Vim - VSCode - Eclipse - Android Studio - Juypter - Git - Github/lab - CMake - KiCad
+
+      - label: Writing/Documentation
+        details: MS Word  - MS Powerpoint - MS Excel - Obsidian - Logseq - Markdown - LaTeX
+
+
+    education_&_awards:
+      - institution: Thompson Rivers University (TRU)
+        area: Software Engineering
+        degree: B.Eng
+        date:
+        start_date: 2022-09
+        end_date: present
+        location: Kamloops, BC
+        summary:
+        highlights:
+          - Awarded the TRU Research Coach Program Grant
+          - TRU Student Union Certificate of Appreciation
+
+      - institution: Selkirk College
+        area: Engineering Transfer
+        degree:
+        date:
+        start_date: 2021-09
+        end_date: 2022-06
+        location: Castlegar, BC
+        summary:
+        highlights:
+          - Awarded the Canadian Hospital Engineering Society Scholarship
+          - Awarded the AMEC Americas Limited Scholarship
+          - Awarded the Mike Jaeck Memorial Scholarship
+
+
+    projects:
+      - name: '[NEAT Snake](https://github.com/DamienHodsall/NEAT-Snake)'
+        date:
+        start_date: 2025-05
+        end_date: 2025-09
+        location:
+        summary: A practice project to improve development skills while using coding best practices
+        highlights:
+          - Blazing fast evolution with promising results on low-end hardware
+          - Written from scratch, almost entirely without libraries
+          - Games can be watched on the LED matrix of Arduino R4 Wifi
+
+      - name: '[Oscilloscope Demonstration](https://github.com/DamienHodsall/haunted-physics)'
+        date:
+        start_date: 2024-10
+        end_date: present
+        location:
+        summary: An oscilloscope demonstration that uses signal transformations to show an image on an oscilloscope
+        highlights:
+          - Displayed yearly at the TRU Physics Club Haunted Physics Lab
+          - Beta version utilizes computer vision to produce a live feed of outlines
+          - Project has companion app to explain parametric equations at a middle school level
+
+      - name: '[Projectile Motion](https://github.com/DamienHodsall/SENG4110-Projectile_Motion)'
+        date:
+        start_date: 2024-09
+        end_date: 2024-12
+        location:
+        summary: A fully-featured physics simulation utilizing all of my programming knowledge
+        highlights:
+          - Automatically built and tested with a custom CICD pipeline
+          - Implements an accurate physical model up to second degree time derivatives
+
+      - name: '[Basys3 Programable Safe](https://github.com/DamienHodsall/CENG3010-final/tree/main)'
+        date:
+        start_date: 2023-09
+        end_date: 2023-12
+        location:
+        summary: Hands-on course project to learn and design combinational circuits
+        highlights:
+          - Utilized and implemented various low-level combinational components
+          - Integrated a variety of common electronic devices
+
+
+    experience:
+      - company: TRU Robotics Lab
+        position: Student Research Intern
+        date:
+        start_date: 2024-06
+        end_date: 2024-09
+        location: Kamloops, BC
+        # summary: Container Management, Training, Research, DevOps, Knowledge Management, Framework Development, Configuration Versioning
+        highlights:
+          - Contributed to the development of a robotics software framework
+          - Utilized Git, containerization, and bash to collaborate in a group
+
+      - company: TRU Science Department
+        position: Research Coach
+        date:
+        start_date: 2023-09
+        end_date: 2023-12
+        location: Kamloops, BC
+        # summary: Teaching, Research, Leadership, Feedback, Guidance
+        highlights:
+          - Managed a group of students towards making and presenting research posters
+          - Graded research posters throughout their development on various criteria
+
+      - company: Selkirk Applied Research & Innovation Center
+        position: Summer Research Intern
+        date:
+        start_date: 2022-06
+        end_date: 2022-09
+        location: Castlegar, BC
+        # summary: DevOps, CI/CD, Research, Super-computing, Web Development, Knowledge Management
+        highlights:
+          - 'Improved CICD production pipelines for various ongoing projects'
+          - 'Explored the use of research-oriented supercomputer servers'
+
+      - company: D-Pace
+        position: Student Intern
+        date:
+        start_date: 2021-09
+        end_date: 2022-03
+        location: Nelson, BC
+        # summary: Simulation Software, Particle Physics, Data Manipulation, Data Generation, Data Filtering, Programming
+        highlights:
+          - Utilized particle simulation software to instantiate parameters
+          - Developed software to generate and filter data
+
+      - company: Massif Music Festival
+        position: Merchandise Management and Sales
+        start_date: 2019-09
+        end_date: 2021-09
+        location: Nelson, BC
+        summary:
+        highlights:
+          - Managed transactions in a busy environment
+          - Represented 20+ groups in sales
+
+
+    # extracurricular_activities:
+    #   - bullet: Student Research Coach for Electrical Properties of Materials
+    #   - bullet: President of the TRU Physics Club (2024 - 2025)
+    #   - bullet: Work-Study student with the TRU Engineering Department (2024 - 2025)
+    #   - bullet: Student Ambassador for the TRU Makerspace (2025)
+
+
+    references:
+      - company: Anusha Venkataraman
+        position: Assistant Teaching Professor (Material Physics)
+        location: Thompson Rivers University
+        highlights:
+          - "avenkataraman@tru.ca"
+
+      - company: Mateus Fandiño
+        position: Assistant Teaching Professor (Thermodynamics, Mechanics)
+        location: Thompson Rivers University
+        highlights:
+          - "mfandino@tru.ca"
+
+      # - company: Geoff Fink
+      #   position: Associate Professor (Robotics)
+      #   location: Thompson Rivers University
+      #   highlights:
+      #     - "gefink@tru.ca"
+
+      - company: Chris Massey
+        position: Information Security Officer
+        location: Kootenay Savings CU
+        highlights:
+          - "+1 250-777-7985"
+
+##############
+### DESIGN ###
+##############
+
+design:
+  theme: classic
+  page:
+    size: us-letter
+    top_margin: 1.8cm
+    bottom_margin: 1.6cm
+    left_margin: 2cm
+    right_margin: 2cm
+    show_footer: true
+    show_top_note: false
+  colors:
+    body: rgb(0, 0, 0)
+    name: rgb(69, 30, 144)
+    headline: rgb(69, 30, 144)
+    connections: rgb(69, 30, 144)
+    section_titles: rgb(69, 30, 144)
+    links: rgb(69, 30, 144)
+    footer: rgb(128, 128, 128)
+    top_note: rgb(128, 128, 128)
+  typography:
+    line_spacing: 0.6em
+    alignment: justified
+    date_and_location_column_alignment: right
+    font_family:
+      body: Source Sans 3
+      name: Open Sauce Sans
+      headline: Source Sans 3
+      connections: Open Sauce Sans
+      section_titles: Open Sauce Sans
+    font_size:
+      body: 10pt
+      name: 30pt
+      headline: 10pt
+      connections: 10pt
+      section_titles: 1.4em
+    small_caps:
+      name: false
+      headline: false
+      connections: false
+      section_titles: false
+    bold:
+      name: true
+      headline: false
+      connections: false
+      section_titles: true
+  links:
+    underline: false
+    show_external_link_icon: true
+  header:
+    alignment: center
+    photo_width: 3.5cm
+    photo_position: left
+    photo_space_left: 0.4cm
+    photo_space_right: 0.4cm
+    space_below_name: 0.8cm
+    space_below_headline: 0.7cm
+    space_below_connections: 1.0cm
+    connections:
+      phone_number_format: national
+      hyperlink: true
+      show_icons: true
+      display_urls_instead_of_usernames: false
+      separator: ''
+      space_between_connections: 0.5cm
+  section_titles:
+    type: with_partial_line
+    line_thickness: 0.7pt
+    space_above: 0.5cm
+    space_below: 0.3cm
+  sections:
+    allow_page_break: false
+    space_between_regular_entries: 0.1em
+    space_between_text_based_entries: 1.2em
+    show_time_spans_in:
+      - experience
+  entries:
+    date_and_location_width: 4.15cm
+    side_space: 0.2cm
+    space_between_columns: 0.1cm
+    allow_page_break: false
+    short_second_row: false
+    summary:
+      space_above: 0cm
+      space_left: 0cm
+    highlights:
+      bullet: ○
+      nested_bullet: •
+      space_left: 0.4cm
+      space_above: 0.15cm
+      space_between_items: 0.15cm
+      space_between_bullet_and_text: 0.5em
+  templates:
+    footer: '*NAME*'
+    top_note: '*LAST_UPDATED CURRENT_DATE*'
+    single_date: MONTH_ABBREVIATION YEAR
+    date_range: START_DATE – END_DATE
+    time_span: HOW_MANY_YEARS YEARS HOW_MANY_MONTHS MONTHS
+    one_line_entry:
+      main_column: '**LABEL:** DETAILS'
+    education_entry:
+      main_column: |-
+        **INSTITUTION**, AREA
+        SUMMARY
+        HIGHLIGHTS
+      degree_column: '**DEGREE**'
+      date_and_location_column: |-
+        LOCATION
+        DATE
+    normal_entry:
+      main_column: |-
+        **NAME**
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column: |-
+        LOCATION
+        DATE
+    experience_entry:
+      main_column: |-
+        **COMPANY**, POSITION
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column: |-
+        LOCATION
+        DATE
+    publication_entry:
+      main_column: |-
+        **TITLE**
+        SUMMARY
+        AUTHORS
+        URL (JOURNAL)
+      date_and_location_column: DATE
+locale:
+  language: english
+  # last_updated: Last updated in
+  # month: month
+  # months: months
+  # year: year
+  # years: years
+  # present: present
+  # month_abbreviations:
+  #   - Jan
+  #   - Feb
+  #   - Mar
+  #   - Apr
+  #   - May
+  #   - June
+  #   - July
+  #   - Aug
+  #   - Sept
+  #   - Oct
+  #   - Nov
+  #   - Dec
+  # month_names:
+  #   - January
+  #   - February
+  #   - March
+  #   - April
+  #   - May
+  #   - June
+  #   - July
+  #   - August
+  #   - September
+  #   - October
+  #   - November
+  #   - December
+settings:
+  current_date: '2026-02-02'
+  render_command:
+    design:
+    locale:
+    typst_path: rendercv_output/NAME_IN_SNAKE_CASE_CV.typ
+    pdf_path: ./NAME_IN_SNAKE_CASE_CV.pdf
+    markdown_path: rendercv_output/NAME_IN_SNAKE_CASE_CV.md
+    html_path: rendercv_output/NAME_IN_SNAKE_CASE_CV.html
+    png_path: rendercv_output/NAME_IN_SNAKE_CASE_CV.png
+    dont_generate_markdown: false
+    dont_generate_html: false
+    dont_generate_typst: false
+    dont_generate_pdf: false
+    dont_generate_png: false
+  bold_keywords: []
