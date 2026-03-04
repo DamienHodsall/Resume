@@ -19,8 +19,7 @@ jobs:
       - name: Render CV
         run: rendercv render Damien_Hodsall_CV.yaml
 
-      - name: Upload Build Artifacts
-        uses: actions/upload-artifact@v4
+      - name: Create Github Release
+        uses: softprops/action-gh-release@v2
         with:
-          name: rendercv-pdf
-          path: rendercv_output/Damien_Hodsall_CV.pdf
+          files: rendercv_output/Damien_Hodsall_CV.pdf
