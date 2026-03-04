@@ -9,3 +9,6 @@ COPY Damien_Hodsall_CV.yaml ./
 
 # Produce the artifact
 RUN rendercv render Damien_Hodsall_CV.yaml
+
+# Figure out where my damn pdf is
+RUN pwd; echo; ls; echo; ls rendercv_output
