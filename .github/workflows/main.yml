@@ -2,7 +2,7 @@ on:
   push:
     tags:
       - "pdf-*-v*.*"
-      # pdf-[target]-v[major].[edit]
+      # pdf-[target]-v[revision].[fix]
       # e.g. pdf-coop-v1.3
 
 permissions:
