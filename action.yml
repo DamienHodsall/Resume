@@ -1,5 +1,0 @@
-name: 'Generate PDF'
-description: 'Use the RenderCV python package to generate a resume as a pdf'
-runs:
-  using: 'docker'
-  image: 'Dockerfile'
