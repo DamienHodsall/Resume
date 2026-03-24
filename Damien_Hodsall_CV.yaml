@@ -3,7 +3,6 @@ cv:
   name: Damien Hodsall
   location: Nelson, BC
   email: damien20work03@gmail.com
-  phone: +1-250-551-8269
   website:
   social_networks:
     - network: LinkedIn
@@ -15,28 +14,15 @@ cv:
 
   sections:
     profile:
-      - "Passionate and broadly-skilled 4th year software engineering student seeking co-op work term. Keen interest in integration of analog and digital circuitry with low-level software via microcontrollers. They excel at finding the key components of a problem in order to efficiently arrive at a solution. Some of their current interests include: creating hobbyist audio equipment, simulating physical systems, and exploring new music!"
-      - "Detail-oriented and passionate university student seeking short-term work position. A broad set of skills and strong ability to learn provide a solid basis to efficient work in a variety of fields. They excel at finding the key components of a problem in order to efficiently arrive at a solution. Some of their current interests include: creating hobbyist audio equipment, simulating physical systems, and exploring new music!"
+      - "Detail-oriented and passionate university student seeking temporary work position. A broad set of skills and strong ability to learn provide a solid basis to efficient work in a variety of fields. They excel at finding the key components of a problem in order to efficiently arrive at a solution. Some of their current interests include: creating hobbyist audio equipment, simulating physical systems, and exploring new music!"
 
 
     skills:
-      - label: Programming
-        details: Proficient at utilizing and implementing various programatic principles
-
       - label: Mathematics
         details: Good understanding of differential equations, calculus, and linear algebra
 
-      - label: Signal Analysis
-        details: Knowledgeable in signal analysis concepts and techniques
-
       - label: Problem-Solving
         details: Strong skills in identifying and solving diverse problems
-
-      - label: Operating Systems
-        details: Confident using 🞱nix family operating systems. Strong knowledge in containerization
-
-      - label: Data Analysis
-        details: Comfortable performing data analysis using tabular and programatic techniques
 
       - label: Report-Writing
         details: Comfortable writing reports and documents describing complex topics
@@ -59,30 +45,20 @@ cv:
       - label: Workplace Safety
         details: Previously underwent WHIMS training and certification
 
-      - label: Physics
-        details: Knowledgeable in modeling physical systems through various methodologies
       - label: Detail-Oriented
-        details: Capable of strong attention to fine details
+        details: Capable of strong attention to detail with a specific focus on key details
           
 
     tools_&_technology:
-      - label: Libraries & APIs
-        details: ROS - NumPy - OpenCV - MatPlotLib - Manin - SciPy - requests - Boost - vector
       - label: Writing/Documentation
         details: MS Word  - LO Writer - Obsidian - Logseq - Markdown - LaTeX
 
-      - label: Programming Languages
-        details: Python - Rust - C++ - C - Bash - VHDL - Java - JavaScript
       - label: Presentation
         details: MS Powerpoint - LO Impress - Canva
 
-      - label: Software
-        details: Vim - VSCode - Eclipse - Android Studio - Juypter - Git - Github/lab - CMake - KiCad
       - label: Graphic Design
         details: Photoshop - LO Draw - GNU Image Manipulation Program - Krita
 
-      - label: Writing/Documentation
-        details: MS Word  - MS Powerpoint - MS Excel - Obsidian - Logseq - Markdown - LaTeX
       - label: Data Manipulation
         details: MS Excel - LO Math - Python - R
 
@@ -112,60 +88,6 @@ cv:
           - Awarded the Canadian Hospital Engineering Society Scholarship
           - Awarded the AMEC Americas Limited Scholarship
           - Awarded the Mike Jaeck Memorial Scholarship
-
-
-    projects:
-      - name: '[NEAT Snake](https://github.com/DamienHodsall/NEAT-Snake)'
-        date:
-        start_date: 2025-05
-        end_date: 2025-09
-        location:
-        summary: A practice project to improve development skills while using coding best practices
-        highlights:
-          - Blazing fast evolution with promising results on low-end hardware
-          - Written from scratch, almost entirely without libraries
-          - Games can be watched on the LED matrix of Arduino R4 Wifi
-
-      - name: '[Oscilloscope Demonstration](https://github.com/DamienHodsall/haunted-physics)'
-        date:
-        start_date: 2024-10
-        end_date: present
-        location:
-        summary: An oscilloscope demonstration that uses signal transformations to show an image on an oscilloscope
-        highlights:
-          - Displayed yearly at the TRU Physics Club Haunted Physics Lab
-          - Beta version utilizes computer vision to produce a live feed of outlines
-          - Project has companion app to explain parametric equations at a middle school level
-
-      - name: '[Arduino-Based MIDI Controller Keyboard](https://www.linkedin.com/in/damien-hodsall-77185526b/overlay/1751653788549/single-media-viewer/?profileId=ACoAAEInywUBN9B68dl70aoSTh4OTZAwl2K9eXs)'
-        date:
-        start_date: 2024-09
-        end_date: present
-        location:
-        summary: Passion project to design and create a well-made keyboard for future music projects
-        highlights:
-          - Efficient IO port use
-          - Low latency keypress detection software
-
-      - name: '[Projectile Motion](https://github.com/DamienHodsall/SENG4110-Projectile_Motion)'
-        date:
-        start_date: 2024-09
-        end_date: 2024-12
-        location:
-        summary: A fully-featured physics simulation utilizing all of my programming knowledge
-        highlights:
-          - Automatically built and tested with a custom CICD pipeline
-          - Implements an accurate physical model up to second degree time derivatives
-
-      - name: '[Basys3 Programable Safe](https://github.com/DamienHodsall/CENG3010-final/tree/main)'
-        date:
-        start_date: 2023-09
-        end_date: 2023-12
-        location:
-        summary: Hands-on course project to learn and design combinational circuits
-        highlights:
-          - Utilized and implemented various low-level combinational components
-          - Integrated a variety of common electronic devices
 
 
     experience:
@@ -247,10 +169,6 @@ cv:
 
 
     extracurricular_activities:
-      - bullet: Student Research Coach for Electrical Properties of Materials
-      - bullet: President of the TRU Physics Club (2024 - 2025)
-      - bullet: Work-Study student with the TRU Engineering Department (2024 - 2025)
-      - bullet: Student Ambassador for the TRU Makerspace (2025)
       - bullet: Volunteer tutor in the Math, Science, and Physics help centers (2022 - 2025)
       - bullet: Poster presenter at the Livable Cities and Collaborative Communities conference (2024)
       - bullet: Member of Physics, Math, Combat Robotics, Open Source, Film, and Cyber Security Clubs
