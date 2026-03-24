@@ -16,6 +16,7 @@ cv:
   sections:
     profile:
       - "Passionate and broadly-skilled 4th year software engineering student seeking co-op work term. Keen interest in integration of analog and digital circuitry with low-level software via microcontrollers. They excel at finding the key components of a problem in order to efficiently arrive at a solution. Some of their current interests include: creating hobbyist audio equipment, simulating physical systems, and exploring new music!"
+      - "Detail-oriented and passionate university student seeking short-term work position. A broad set of skills and strong ability to learn provide a solid basis to efficient work in a variety of fields. They excel at finding the key components of a problem in order to efficiently arrive at a solution. Some of their current interests include: creating hobbyist audio equipment, simulating physical systems, and exploring new music!"
 
 
     skills:
@@ -60,6 +61,9 @@ cv:
 
       - label: Physics
         details: Knowledgeable in modeling physical systems through various methodologies
+
+      - label: Detail-Oriented
+        details: Capable of strong attention to fine details
           
 
     tools_&_technology:
@@ -73,7 +77,16 @@ cv:
         details: Vim - VSCode - Eclipse - Android Studio - Juypter - Git - Github/lab - CMake - KiCad
 
       - label: Writing/Documentation
-        details: MS Word  - MS Powerpoint - MS Excel - Obsidian - Logseq - Markdown - LaTeX
+        details: MS Word  - LO Writer - Obsidian - Logseq - Markdown - LaTeX
+
+      - label: Presentation
+        details: MS Powerpoint - LO Impress - Canva
+
+      - label: Graphic Design
+        details: Photoshop - LO Draw - GNU Image Manipulation Program - Krita
+
+      - label: Data Manipulation
+        details: MS Excel - LO Math - Python - R
 
 
     education_&_awards:
@@ -240,6 +253,10 @@ cv:
       - bullet: President of the TRU Physics Club (2024 - 2025)
       - bullet: Work-Study student with the TRU Engineering Department (2024 - 2025)
       - bullet: Student Ambassador for the TRU Makerspace (2025)
+      - bullet: Volunteer tutor in the Math, Science, and Physics help centers (2022 - 2025)
+      - bullet: Poster presenter at the Livable Cities and Collaborative Communities conference (2024)
+      - bullet: Member of Physics, Math, Combat Robotics, Open Source, Film, and Cyber Security Clubs
+      - bullet: President and event coordinator of the TRU Physics Club (2024 - 2025)
 
 
     references:
