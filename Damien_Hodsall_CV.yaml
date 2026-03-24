@@ -169,6 +169,17 @@ cv:
           - Communicated maintenance, operation, and working principles of various tools
           - Provided mentorship and assistance to students for their projects
 
+      - company: TRU Engineering
+        position: Work Study Student
+        date:
+        start_date: 2024-09
+        end_date: 2025-04
+        location: Kamloops, BC
+        summary: Outreach, Teaching, Mentorship, Automation, Documentation, Asset Supervision
+        highlights:
+          - Represented and supported the Engineering Department in various outreach events
+          - Transported department assets to and from events
+
       - company: TRU Robotics Lab
         position: Student Research Intern
         date:
@@ -178,7 +189,7 @@ cv:
         summary: Container Management, Training, Research, DevOps, Knowledge Management, Framework Development, Configuration Versioning
         highlights:
           - Contributed to the development of a robotics software framework
-          - Utilized Git, containerization, and bash to collaborate in a group
+          - Utilized Git, containerization, and scripting to collaborate in a group
 
       - company: TRU Science Department
         position: Research Coach
@@ -210,8 +221,8 @@ cv:
         location: Nelson, BC
         summary: Simulation Software, Particle Physics, Data Manipulation, Data Generation, Data Filtering, Programming
         highlights:
-          - Utilized particle simulation software to instantiate parameters
-          - Developed software to generate and filter data
+          - Utilized particle simulation software to instantiate parameterized calculations
+          - Developed software to generate and filter large datasets
 
       - company: Massif Music Festival
         position: Merchandise Management and Sales
