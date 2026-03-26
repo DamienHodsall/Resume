@@ -15,7 +15,8 @@ cv:
 
   sections:
     profile:
-      - "Passionate and broadly-skilled 4th year software engineering student seeking co-op work term. Keen interest in integration of analog and digital circuitry with low-level software via microcontrollers. They excel at finding the key components of a problem in order to efficiently arrive at a solution. Some of their current interests include: creating hobbyist audio equipment, physical simulation techniques, and exploring new music!"
+      - "Passionate and broadly-skilled 4th year software engineering student seeking co-op work term. Keen interest in integration of analog and digital circuitry with low-level software via microcontrollers. They excel at finding the key components of a problem in order to efficiently arrive at a solution. Some of their current interests include: creating hobbyist audio equipment, simulating physical systems, and exploring new music!"
+      - "Detail-oriented and passionate university student seeking short-term work position. A broad set of skills and strong ability to learn provide a solid basis to efficient work in a variety of fields. They excel at finding the key components of a problem in order to efficiently arrive at a solution. Some of their current interests include: creating hobbyist audio equipment, simulating physical systems, and exploring new music!"
 
 
     skills:
@@ -23,13 +24,16 @@ cv:
         details: Proficient at utilizing and implementing various programatic principles
 
       - label: Mathematics
-        details: Good understanding of differential equations, calculus, linear algebra, and signal analysis
+        details: Good understanding of differential equations, calculus, and linear algebra
+
+      - label: Signal Analysis
+        details: Knowledgeable in signal analysis concepts and techniques
 
       - label: Problem-Solving
         details: Strong skills in identifying and solving diverse problems
 
       - label: Operating Systems
-        details: Confident using \*nix family operating systems. Strong knowledge in containerization
+        details: Confident using 🞱nix family operating systems. Strong knowledge in containerization
 
       - label: Data Analysis
         details: Comfortable performing data analysis using tabular and programatic techniques
@@ -48,6 +52,18 @@ cv:
 
       - label: Teaching
         details: Experience teaching advanced concepts within short time frames
+
+      - label: Chemistry
+        details: Basic understanding and intuition for chemical and physical interactions of particles
+
+      - label: Workplace Safety
+        details: Previously underwent WHIMS training and certification
+
+      - label: Physics
+        details: Knowledgeable in modeling physical systems through various methodologies
+
+      - label: Detail-Oriented
+        details: Capable of strong attention to fine details
           
 
     tools_&_technology:
@@ -114,6 +130,16 @@ cv:
           - Beta version utilizes computer vision to produce a live feed of outlines
           - Project has companion app to explain parametric equations at a middle school level
 
+      - name: '[Arduino-Based MIDI Controller Keyboard](https://www.linkedin.com/in/damien-hodsall-77185526b/overlay/1751653788549/single-media-viewer/?profileId=ACoAAEInywUBN9B68dl70aoSTh4OTZAwl2K9eXs)'
+        date:
+        start_date: 2024-09
+        end_date: present
+        location:
+        summary: Passion project to design and create a well-made keyboard for future music projects
+        highlights:
+          - Efficient IO port use
+          - Low latency keypress detection software
+
       - name: '[Projectile Motion](https://github.com/DamienHodsall/SENG4110-Projectile_Motion)'
         date:
         start_date: 2024-09
@@ -136,16 +162,38 @@ cv:
 
 
     experience:
+      - company: TRU Library Makerspace
+        position: Student Ambassador
+        date:
+        start_date: 2025-01
+        end_date: 2025-04
+        location: Kamloops, BC
+        summary: Mentorship, Supervision, Light Maintenance, Project Development, Guidance
+        highlights:
+          - Communicated maintenance, operation, and working principles of various tools
+          - Provided mentorship and assistance to students for their projects
+
+      - company: TRU Engineering
+        position: Work Study Student
+        date:
+        start_date: 2024-09
+        end_date: 2025-04
+        location: Kamloops, BC
+        summary: Outreach, Teaching, Mentorship, Automation, Documentation, Asset Supervision
+        highlights:
+          - Represented and supported the Engineering Department in various outreach events
+          - Transported department assets to and from events
+
       - company: TRU Robotics Lab
         position: Student Research Intern
         date:
         start_date: 2024-06
         end_date: 2024-09
         location: Kamloops, BC
-        # summary: Container Management, Training, Research, DevOps, Knowledge Management, Framework Development, Configuration Versioning
+        summary: Container Management, Training, Research, DevOps, Knowledge Management, Framework Development, Configuration Versioning
         highlights:
           - Contributed to the development of a robotics software framework
-          - Utilized Git, containerization, and bash to collaborate in a group
+          - Utilized Git, containerization, and scripting to collaborate in a group
 
       - company: TRU Science Department
         position: Research Coach
@@ -153,7 +201,7 @@ cv:
         start_date: 2023-09
         end_date: 2023-12
         location: Kamloops, BC
-        # summary: Teaching, Research, Leadership, Feedback, Guidance
+        summary: Teaching, Research, Leadership, Feedback, Guidance
         highlights:
           - Managed a group of students towards making and presenting research posters
           - Graded research posters throughout their development on various criteria
@@ -164,7 +212,7 @@ cv:
         start_date: 2022-06
         end_date: 2022-09
         location: Castlegar, BC
-        # summary: DevOps, CI/CD, Research, Super-computing, Web Development, Knowledge Management
+        summary: DevOps, CI/CD, Research, Super-computing, Web Development, Knowledge Management
         highlights:
           - 'Improved CICD production pipelines for various ongoing projects'
           - 'Explored the use of research-oriented supercomputer servers'
@@ -175,10 +223,10 @@ cv:
         start_date: 2021-09
         end_date: 2022-03
         location: Nelson, BC
-        # summary: Simulation Software, Particle Physics, Data Manipulation, Data Generation, Data Filtering, Programming
+        summary: Simulation Software, Particle Physics, Data Manipulation, Data Generation, Data Filtering, Programming
         highlights:
-          - Utilized particle simulation software to instantiate parameters
-          - Developed software to generate and filter data
+          - Utilized particle simulation software to instantiate parameterized calculations
+          - Developed software to generate and filter large datasets
 
       - company: Massif Music Festival
         position: Merchandise Management and Sales
@@ -191,11 +239,14 @@ cv:
           - Represented 20+ groups in sales
 
 
-    # extracurricular_activities:
-    #   - bullet: Student Research Coach for Electrical Properties of Materials
-    #   - bullet: President of the TRU Physics Club (2024 - 2025)
-    #   - bullet: Work-Study student with the TRU Engineering Department (2024 - 2025)
-    #   - bullet: Student Ambassador for the TRU Makerspace (2025)
+    extracurricular_activities:
+      - bullet: Student Research Coach for Electrical Properties of Materials
+      - bullet: Work-Study student with the TRU Engineering Department (2024 - 2025)
+      - bullet: Student Ambassador for the TRU Makerspace (2025)
+      - bullet: Volunteer tutor in the Math, Science, and Physics help centers (2022 - 2025)
+      - bullet: Poster presenter at the Livable Cities and Collaborative Communities conference (2024)
+      - bullet: Member of Physics, Math, Combat Robotics, Open Source, Film, and Cyber Security Clubs
+      - bullet: President and event coordinator of the TRU Physics Club (2024 - 2025)
 
 
     references:
