@@ -12,7 +12,7 @@ cv:
 
   sections:
     profile:
-      - "Detail-oriented and passionate university student seeking short-term work position. A broad set of skills and strong ability to learn provide a solid basis to efficient work in a variety of fields. Capable of quiet, focused work in various environments."
+      - "Detail-oriented and passionate university student seeking short-term work position. A broad set of skills and strong ability to learn provide a solid basis to efficient work in a variety of different fields. Capable of quiet, focused work in various environments. Eager to gain experience in new and interesting positions!"
 
 
     skills:
@@ -130,24 +130,6 @@ cv:
 
 
     references:
-      - company: Anusha Venkataraman
-        position: Assistant Teaching Professor (Material Physics)
-        location: Thompson Rivers University
-        highlights:
-          - "avenkataraman@tru.ca"
-
-      - company: Mateus Fandiño
-        position: Assistant Teaching Professor (Thermodynamics, Mechanics)
-        location: Thompson Rivers University
-        highlights:
-          - "mfandino@tru.ca"
-
-      # - company: Geoff Fink
-      #   position: Associate Professor (Robotics)
-      #   location: Thompson Rivers University
-      #   highlights:
-      #     - "gefink@tru.ca"
-
       - company: Chris Massey
         position: Information Security Officer
         location: Kootenay Savings CU
@@ -188,7 +170,7 @@ design:
       connections: Open Sauce Sans
       section_titles: Open Sauce Sans
     font_size:
-      body: 9.75pt
+      body: 10pt
       name: 25pt
       headline: 9pt
       connections: 8.75pt
@@ -230,7 +212,7 @@ design:
   sections:
     allow_page_break: false
     space_between_regular_entries: 0.1em
-    space_between_text_based_entries: 0.2em
+    space_between_text_based_entries: 0.4em
     show_time_spans_in:
       - experience
   entries:
