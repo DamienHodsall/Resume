@@ -16,7 +16,6 @@ cv:
   sections:
     profile:
       - "Passionate and broadly-skilled 4th year software engineering student seeking co-op work term. Keen interest in integration of analog and digital circuitry with low-level software via microcontrollers. They excel at finding the key components of a problem in order to efficiently arrive at a solution. Some of their current interests include: creating hobbyist audio equipment, simulating physical systems, and exploring new music!"
-      - "Detail-oriented and passionate university student seeking short-term work position. A broad set of skills and strong ability to learn provide a solid basis to efficient work in a variety of fields. They excel at finding the key components of a problem in order to efficiently arrive at a solution. Some of their current interests include: creating hobbyist audio equipment, simulating physical systems, and exploring new music!"
 
 
     skills:
@@ -33,7 +32,7 @@ cv:
         details: Strong skills in identifying and solving diverse problems
 
       - label: Operating Systems
-        details: Confident using 🞱nix family operating systems. Strong knowledge in containerization
+        details: Confident using 🞯nix family operating systems. Strong knowledge in containerization
 
       - label: Data Analysis
         details: Comfortable performing data analysis using tabular and programatic techniques
@@ -53,11 +52,11 @@ cv:
       - label: Teaching
         details: Experience teaching advanced concepts within short time frames
 
-      - label: Chemistry
-        details: Basic understanding and intuition for chemical and physical interactions of particles
-
       - label: Workplace Safety
         details: Previously underwent WHIMS training and certification
+
+      - label: Chemistry
+        details: Basic understanding and intuition for chemical and physical interactions of particles
 
       - label: Physics
         details: Knowledgeable in modeling physical systems through various methodologies
@@ -111,24 +110,13 @@ cv:
       - name: '[NEAT Snake](https://github.com/DamienHodsall/NEAT-Snake)'
         date:
         start_date: 2025-05
-        end_date: 2025-09
+        end_date: 2026-03
         location:
         summary: A practice project to improve development skills while using coding best practices
         highlights:
           - Blazing fast evolution with promising results on low-end hardware
           - Written from scratch, almost entirely without libraries
           - Games can be watched on the LED matrix of Arduino R4 Wifi
-
-      - name: '[Oscilloscope Demonstration](https://github.com/DamienHodsall/haunted-physics)'
-        date:
-        start_date: 2024-10
-        end_date: present
-        location:
-        summary: An oscilloscope demonstration that uses signal transformations to show an image on an oscilloscope
-        highlights:
-          - Displayed yearly at the TRU Physics Club Haunted Physics Lab
-          - Beta version utilizes computer vision to produce a live feed of outlines
-          - Project has companion app to explain parametric equations at a middle school level
 
       - name: '[Arduino-Based MIDI Controller Keyboard](https://www.linkedin.com/in/damien-hodsall-77185526b/overlay/1751653788549/single-media-viewer/?profileId=ACoAAEInywUBN9B68dl70aoSTh4OTZAwl2K9eXs)'
         date:
@@ -149,16 +137,6 @@ cv:
         highlights:
           - Automatically built and tested with a custom CICD pipeline
           - Implements an accurate physical model up to second degree time derivatives
-
-      - name: '[Basys3 Programable Safe](https://github.com/DamienHodsall/CENG3010-final/tree/main)'
-        date:
-        start_date: 2023-09
-        end_date: 2023-12
-        location:
-        summary: Hands-on course project to learn and design combinational circuits
-        highlights:
-          - Utilized and implemented various low-level combinational components
-          - Integrated a variety of common electronic devices
 
 
     experience:
@@ -228,21 +206,8 @@ cv:
           - Utilized particle simulation software to instantiate parameterized calculations
           - Developed software to generate and filter large datasets
 
-      - company: Massif Music Festival
-        position: Merchandise Management and Sales
-        start_date: 2019-09
-        end_date: 2021-09
-        location: Nelson, BC
-        summary:
-        highlights:
-          - Managed transactions in a busy environment
-          - Represented 20+ groups in sales
-
 
     extracurricular_activities:
-      - bullet: Student Research Coach for Electrical Properties of Materials
-      - bullet: Work-Study student with the TRU Engineering Department (2024 - 2025)
-      - bullet: Student Ambassador for the TRU Makerspace (2025)
       - bullet: Volunteer tutor in the Math, Science, and Physics help centers (2022 - 2025)
       - bullet: Poster presenter at the Livable Cities and Collaborative Communities conference (2024)
       - bullet: Member of Physics, Math, Combat Robotics, Open Source, Film, and Cyber Security Clubs
@@ -308,11 +273,11 @@ design:
       connections: Open Sauce Sans
       section_titles: Open Sauce Sans
     font_size:
-      body: 10pt
-      name: 30pt
+      body: 9pt
+      name: 25pt
       headline: 10pt
       connections: 10pt
-      section_titles: 1.4em
+      section_titles: 1.2em
     small_caps:
       name: false
       headline: false
@@ -334,7 +299,7 @@ design:
     photo_space_right: 0.4cm
     space_below_name: 0.8cm
     space_below_headline: 0.7cm
-    space_below_connections: 1.0cm
+    space_below_connections: 0.7cm
     connections:
       phone_number_format: national
       hyperlink: true
@@ -345,17 +310,17 @@ design:
   section_titles:
     type: with_partial_line
     line_thickness: 0.7pt
-    space_above: 0.5cm
-    space_below: 0.3cm
+    space_above: 0.3cm
+    space_below: 0.2cm
   sections:
     allow_page_break: false
     space_between_regular_entries: 0.1em
-    space_between_text_based_entries: 1.2em
+    space_between_text_based_entries: 0.8em
     show_time_spans_in:
       - experience
   entries:
     date_and_location_width: 4.15cm
-    side_space: 0.2cm
+    side_space: 0.3cm
     space_between_columns: 0.1cm
     allow_page_break: false
     short_second_row: false
@@ -366,8 +331,8 @@ design:
       bullet: ○
       nested_bullet: •
       space_left: 0.4cm
-      space_above: 0.15cm
-      space_between_items: 0.15cm
+      space_above: 0.08cm
+      space_between_items: 0.0cm
       space_between_bullet_and_text: 0.5em
   templates:
     footer: '*NAME*'
