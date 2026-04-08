@@ -41,7 +41,7 @@ cv:
         details: Comfortable performing data analysis using tabular and programatic techniques
 
       - label: Databases
-        details: Familiar with using, creating, and maintaining database systems and surrounding architecture
+        details: Familiarity using, creating, and maintaining database systems and surrounding architecture
 
       - label: Report-Writing
         details: Comfortable writing reports and documents describing complex topics
@@ -49,11 +49,11 @@ cv:
       - label: Documentation
         details: Able to quickly read and understand product documentation
 
-      - label: Resource Allocation
-        details: Able to maintain and track a set of technical resources and tools
-
       - label: Organization
         details: Naturally organized and tidy workflow leading to efficient completion of tasks
+
+      - label: Resource Allocation
+        details: Able to maintain and track a set of technical resources and tools
 
       - label: Learning
         details: Strong believer in life-long/contiuous learning, able to quickly learn new skills as necessary
