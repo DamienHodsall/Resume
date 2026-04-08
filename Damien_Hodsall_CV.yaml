@@ -15,15 +15,18 @@ cv:
 
   sections:
     profile:
-      - "Passionate and broadly-skilled 4th year software engineering student seeking co-op work term. Keen interest in integration of analog and digital circuitry with low-level software via microcontrollers. They excel at finding the key components of a problem in order to efficiently arrive at a solution. Some of their current interests include: creating hobbyist audio equipment, simulating physical systems, and exploring new music!"
+      - "Passionate and broadly-skilled 4th year software engineering student seeking co-op work term. Keen interest in integration of analog and digital circuitry with low-level software via microcontrollers. Software/Hardware development, signal analysis, and workflow optimization pair with a deep drive for understanding to create high-quality and reproducable results. They excel at finding the key components of a problem in order to efficiently arrive at a solution. Some of their current interests include: creating hobbyist audio equipment, simulating physical systems, and exploring new music!"
 
 
     skills:
+      - label: Detail-Oriented
+        details: Capable of strong attention to fine details
+
       - label: Programming
         details: Proficient at utilizing and implementing various programatic principles
 
       - label: Mathematics
-        details: Good understanding of differential equations, calculus, and linear algebra
+        details: Good intuition for calculus, differential equations, and linear algebra
 
       - label: Signal Analysis
         details: Knowledgeable in signal analysis concepts and techniques
@@ -37,17 +40,23 @@ cv:
       - label: Data Analysis
         details: Comfortable performing data analysis using tabular and programatic techniques
 
+      - label: Databases
+        details: Familiar with using, creating, and maintaining database systems and surrounding architecture
+
       - label: Report-Writing
         details: Comfortable writing reports and documents describing complex topics
 
       - label: Documentation
         details: Able to quickly read and understand product documentation
 
-      - label: Learning
-        details: Strong believer in life-long/contiuous learning, able to quickly learn new skills as necessary
+      - label: Resource Allocation
+        details: Able to maintain and track a set of technical resources and tools
 
       - label: Organization
         details: Naturally organized and tidy workflow leading to efficient completion of tasks
+
+      - label: Learning
+        details: Strong believer in life-long/contiuous learning, able to quickly learn new skills as necessary
 
       - label: Teaching
         details: Experience teaching advanced concepts within short time frames
@@ -61,9 +70,6 @@ cv:
       - label: Physics
         details: Knowledgeable in modeling physical systems through various methodologies
 
-      - label: Detail-Oriented
-        details: Capable of strong attention to fine details
-          
 
     tools_&_technology:
       - label: Libraries & APIs
