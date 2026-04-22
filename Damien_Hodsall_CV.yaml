@@ -233,17 +233,11 @@ cv:
         highlights:
           - "mfandino@tru.ca"
 
-      # - company: Geoff Fink
-      #   position: Associate Professor (Robotics)
-      #   location: Thompson Rivers University
-      #   highlights:
-      #     - "gefink@tru.ca"
-
-      - company: Chris Massey
-        position: Information Security Officer
-        location: Kootenay Savings CU
+      - company: Geoff Fink
+        position: Associate Professor (Control Systems, Robotics Engineering)
+        location: Thompson Rivers University
         highlights:
-          - "+1 250-777-7985"
+          - "gefink@tru.ca"
 
 ##############
 ### DESIGN ###
